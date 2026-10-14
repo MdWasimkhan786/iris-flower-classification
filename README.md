@@ -31,6 +31,12 @@ Classify an Iris flower into one of three species:
 - Predicts the flower species.
 - Displays prediction probabilities when supported by the selected model.
 
+## Live Demo
+
+Try the Iris Flower Classification app online:
+
+[Open Live App](https://iris-flower-classification-wasim.streamlit.app)
+
 ## Project Files
 - `app.py` — Streamlit application.
 - `iris_model.joblib` — Saved machine learning model.
