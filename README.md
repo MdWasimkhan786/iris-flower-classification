@@ -27,7 +27,7 @@ This project uses Machine Learning to classify Iris flowers into three species: 
 - `requirements.txt` — Required Python libraries.
 
 ## 👨‍💻 Author
-Md Wasim Khan**
+Md Wasim Khan
 
 Aspiring Data Analyst & Data Scientist
 
